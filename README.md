@@ -27,6 +27,7 @@ Then verify the GPU:
 !nvidia-smi
 
 2. 安装 Ollama
+
 Run:
 !sudo apt-get install zstd
 
