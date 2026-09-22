@@ -37,6 +37,7 @@ Then verify the GPU:
 Kaggle/Jupyter does not reliably support shell background processes using &, so start Ollama with Python:
 
 import subprocess
+
 import time
 
 subprocess.Popen(
