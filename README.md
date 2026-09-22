@@ -25,6 +25,7 @@ Settings → Accelerator → GPU → T4*2
 Then verify the GPU:
 
 !nvidia-smi
+
 2. 安装 Ollama
 Run:
 !sudo apt-get install zstd
