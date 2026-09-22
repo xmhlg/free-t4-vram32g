@@ -60,6 +60,7 @@ print("Ollama started")
 
 
 !wget -q https://github.com/cloudflare/cloudflared/releases/latest/download/cloudflared-linux-amd64.deb
+
 !dpkg -i cloudflared-linux-amd64.deb
 
 8. 创建 Cloudflare 频道
