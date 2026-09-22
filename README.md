@@ -28,7 +28,7 @@ Then verify the GPU:
 
 2. 安装 Ollama
 
-Run:
+
 !sudo apt-get install zstd
 
 !curl -fsSL https://ollama.com/install.sh | sh
